@@ -87,3 +87,16 @@ We want to know that you can:
 	]
     ```
 
+## Development
+
+### Pre-requisite
+
+    $ node -v
+    v8.8.0
+    $ yarn
+
+### Steps
+
+    $ yarn
+    $ yarn start
+
